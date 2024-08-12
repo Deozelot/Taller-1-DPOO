@@ -1,0 +1,13 @@
+tipo:Extra:15000:3000.0
+tipo:Corriente:10000:2000.0
+tipo:Diesel:5000:1000.0
+tipo:Extra Deluxe:20000:4000.0
+surtidor:Sara:Extra:0.0:Corriente:0.0:Diesel:0.0:Extra Deluxe:0.0
+surtidor:Mel:Extra:0.0:Corriente:0.0:Diesel:0.0:Extra Deluxe:0.0
+surtidor:Jason:Extra:0.0:Corriente:0.0:Diesel:0.0:Extra Deluxe:0.0
+surtidor:Sara:Extra:0.0:Corriente:0.0:Diesel:0.0:Extra Deluxe:0.0
+empleado:Mel:0
+empleado:David:0
+empleado:Bill:0
+empleado:Sara:0
+empleado:Jason:0
